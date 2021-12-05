@@ -1,1 +1,3 @@
-# earth_and_environmental_science
+# Earth and environmental science
+
+Course notes
